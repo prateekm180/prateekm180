@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Varun (aka prateek my username(@prateekm180))
+- 👋 Hi, I’m Varun (aka prateek, my username(@prateekm180))
 - 👀 I’m interested in online work and projects
 - 🌱 I’m currently learning MERN, AI&ML
-- 💞️ I’m looking to collaboration 
-- 📫 How to reach me : Follow me here link all my profiles are in my github bio
+- 💞️ I’m looking for collaboration 
+- 📫 How to reach me : Follow me here. link of all my profiles are in my github bio
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: Ambivert 
 - 💫 Hobbies: Learning and Trying Something New, Music, Art & Craft, Reading, Solo Travelling (Tracking), Martial Arts
