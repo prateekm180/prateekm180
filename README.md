@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Varun (aka prateek, my username(@prateekm180))
 - 👀 I’m interested in online work and projects
-- 🌱 I’m currently learning MERN, AI&ML
+- 🌱 I’m currently learning AI&ML and NLP and Generative AI
+- 🌱 Complete WebDev, FrontEnd, BackEnd, Arduino/ROS, Python
 - 💞️ I’m looking for collaboration 
 - 📫 How to reach me : Follow me here. link of all my profiles are in my github bio
 - 😄 Pronouns: he/him 
