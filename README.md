@@ -6,7 +6,7 @@
 - 📫 How to reach me : Follow me here. link of all my profiles are in my github bio
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: Ambivert 
-- 💫 Hobbies: Learning and Trying Something New, Music, Art & Craft, Reading, Solo Travelling (Tracking), Martial Arts
+- 💫 Hobbies: Learning and Trying Something New, Music, Poetry, Art & Craft, Reading, Solo Travelling (Tracking), Martial Arts
 
 <!---
 prateekm180/prateekm180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
