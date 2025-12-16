@@ -1,3 +1,5 @@
+#  ABOUT
+
 - 👋 Hi, I’m Varun (aka prateek, my username(@prateekm180))
 - 👀 I’m interested in online work and projects
 - 🌱 I’m currently learning AI&ML and NLP and Generative AI
