@@ -7,7 +7,7 @@
 - 💞️ I’m looking for collaboration 
 - 📫 How to reach me : Follow me here. link of all my profiles are in my github bio
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: Ambivert 
+- ⚡ Fun fact: Lies Somewhere Between Introvert - Ambivert 
 - 💫 Hobbies: Learning and Trying Something New, Music, Poetry, Art & Craft, Reading, Solo Travelling (Tracking), Martial Arts
 
 <!---
