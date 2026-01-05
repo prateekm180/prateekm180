@@ -27,7 +27,7 @@ def print_lyrics():
     delays = [0.9, 1.7, 1.0, 1.8, 1.0, 1.7, 0.6, 1.4, 0.5]
 
     print("\nArz Kiya Hai...\n")
-    BACKGROUND_MUSIC = r"E:\Me\Projects\Project Image Video Sounds\Sounds\Arz Kiya Hai.mp3"
+    BACKGROUND_MUSIC = "github.com\prateekm180\prateekm180\Lyrics\Arz Kiya Hai.mp3"
 
     if not os.path.exists(BACKGROUND_MUSIC):
         print("❌ Music file not found")
@@ -46,5 +46,6 @@ def print_lyrics():
         time.sleep(0)
 
     pygame.quit()
+
 
 print_lyrics()
